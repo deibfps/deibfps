@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">I'm a third semester IT Student at BUAP (Meritorious Autonomous University of Puebla) therefore I'm from Mexico 🇲🇽. Love videogames and I LOVE music🎧.</h4>
+<h4 align="left">I'm a fourth semester IT Student at BUAP (Meritorious Autonomous University of Puebla) therefore I'm from Mexico 🇲🇽. Love videogames and I LOVE music🎧.</h4>
 
 ###
 
