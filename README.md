@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">{ } Creating bugs since August 2023.<br>📚 I'm currently learning C++, HTML, CSS, Python and JavaScript.<br>🎯 Goals: Become a really good developer.</p>
+<p align="left">{ } Creating bugs since August 2023.<br>📚 I'm currently learning C++, HTML, CSS, JavaScript, Python and PHP.<br>🎯 Goals: Become a really good developer.</p>
 
 ###
 
