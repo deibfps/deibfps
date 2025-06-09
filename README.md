@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is David</h1>
+<h1 align="left">Hi👋! My name is David</h1>
 
 ###
 
@@ -6,11 +6,11 @@
 
 ###
 
-<h4 align="left">I'm a fourth semester IT Student at BUAP (Benemérita Universidad Autónoma de Puebla) therefore I'm from Mexico 🇲🇽. Love videogames and I LOVE music🎧.</h4>
+<h4 align="left">I'm a fifth semester IT Student at BUAP (Benemérita Universidad Autónoma de Puebla) therefore I'm from Mexico 🇲🇽. I LOVE music🎧 and esports.</h4>
 
 ###
 
-<p align="left">{ } Creating bugs since August 2023.<br>📚 I'm currently learning C++, HTML, CSS, JavaScript, Python and PHP.<br>🎯 Goals: Become a really good developer.</p>
+<p align="left">{ } Creating bugs since August 2023.<br>📚 Currently I'm a junior so I learn as much as I can.<br>🎯 Goals: Become a Software Engineer.</p>
 
 ###
 
@@ -37,17 +37,11 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/deibpst/" target="_blank">
+  <a href="https://www.instagram.com/deibzera/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/david-ponce-santos-320152327/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@deibpst" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://discordapp.com/users/473363362831532043" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
 
