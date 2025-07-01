@@ -1,38 +1,16 @@
-<div align="center">
-  <img height="150" src="https://static.myfigurecollection.net/upload/pictures/2024/03/25/3945250.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/david-ponce-santos-320152327/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@deibpst" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/deib.pst/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
+<h2 align="center">Hello world! 👋</h2>
 
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/deivekps">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=deivekps&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </div>
 
 ###
 
-<h1 align="center">Hi👋! My name is David</h1>
-
-###
-
-<h2 align="left">👨‍💻  About Me</h2>
+<h3 align="left">👨‍💻  About Me</h3>
 
 ###
 
@@ -40,11 +18,9 @@
 
 ###
 
-<h2 align="left">🛠 Language and tools</h2>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -74,6 +50,14 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/deivekps">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=deivekps&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
