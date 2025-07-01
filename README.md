@@ -1,4 +1,3 @@
-entre las fotos de linkedin youtube e instagram hay una figura de color azul como la puedo quitar
 <div align="center">
   <img height="150" src="https://static.myfigurecollection.net/upload/pictures/2024/03/25/3945250.gif"  />
 </div>
