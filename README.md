@@ -20,7 +20,13 @@
 
 ###
 
-<p align="left">**My name is David and I'm 20 years old.** <br> I'm a fifth semester IT Student at BUAP (Benemérita Universidad Autónoma de Puebla) and I'm from Mexico 🇲🇽. I truly love music 🎧 and esports.<br><br>{ } I've been creating bugs since August 2023.<br>📚 Currently I'm a junior so I learn as much as I can.<br>🎯 Goals: Become a Software Engineer.</p>
+<p align="left">
+  <strong>My name is David and I'm 20 years old.</strong><br>
+  I'm a fifth semester IT student at BUAP (Benemérita Universidad Autónoma de Puebla) and I'm from Mexico 🇲🇽.<br><br>
+  { } I've been creating bugs since August 2023.<br>
+  📚 Currently I'm a junior so I learn as much as I can.<br>
+  🎯 Goals: Become a Software Engineer.
+</p>
 
 ###
 
