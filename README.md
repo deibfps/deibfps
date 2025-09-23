@@ -10,4 +10,4 @@ Currently learning and building with:
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 
-![Random Picture](https://en.namu.wiki/w/meowl)
+![Meowl](https://i.namu.wiki/i/iCO_ZCSt3i6d_Pyoe5j20gsE8hy0iBSsUBIQ87nsmqYK5Q5EE1Zk_RHoJZ5YSSzn9NJ-dgXkR5b6Av0HOauvzg.webp)
